@@ -1,0 +1,1 @@
+This JEB floating is cracked by colordancer , and fixed by sevenluna on 2016.02.16.    Fixed:Resolved a misstake  invoked by Downing swt.jar; Altered an important file jeb_wincon.bat.     Waring: Please modify some setting in this bat file,especially JAVA_HOME ,before you want to use it

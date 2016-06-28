@@ -1,0 +1,17 @@
+#JEB properties
+#Sun Feb 14 18:59:14 CST 2016
+code_font=1|Courier New|10.0|0|GTK|1|
+ctl_port=23477
+optdlg_selected_tab=0
+shell_max=true
+eula_accepted=true
+ui_w_console_ratio=12
+ctl_interface=www.colordancer.net
+check_update=true
+proxy=
+last_version_run=1.5.201508100
+shell_width=1382
+license_key=
+first_run=1429716051
+shell_height=754
+last_run=1455447534
